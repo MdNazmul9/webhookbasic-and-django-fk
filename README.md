@@ -9,6 +9,8 @@ curl -X POST http://127.0.0.1:9000/webhook/testpayload/ -d '{"title": "Hello wor
 
 $ ```ngrok http 8000```
 
+# Global Link :
+https://23dfffb11667.ngrok.io/
 
 
 
